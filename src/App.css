@@ -1,0 +1,19 @@
+h2 {
+  text-align: center;
+  color: rgb(106, 188, 255);
+}
+
+.scoreboard h4 {
+  text-align: center;
+  color: rgb(201, 143, 67);
+  padding-right: 1rem;
+}
+
+#restartButton {
+  margin: 0 auto;
+  display: block;
+}
+
+#message {
+  color: rgb(49, 162, 255);
+}
